@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">NavigationDrawerDemo</string>
+    <string name="drawer_open"></string>
+    <string name="drawer_close"></string>
+    <string name="home_icon">&#xf015;</string>
+    <string name="event_icon">&#xf073;</string>
+    <string name="gallery_icon">&#xf03e;</string>
+    <string name="press_note_icon">&#xf0a1;</string>
+    <string name="social_feeds_icon">&#xf008;</string>
+    <string name="about_icon">&#xf08b;</string>
+    <string name="gi_icon">&#xf044;</string>
+    <string name="contact_us_icon">&#xf0e0;</string>
+    <string name="feedback_icon">&#xf075;</string>
+    <string name="fa_developer_detail">&#xf17b;</string>
+    <string name="fa_aboutBJP">&#xf022;</string>
+    <string name="fa_search_members">&#xf002;</string>
+    <string name="fa_share">&#xf1e0;</string>
+    <string name="fa_community">&#xf0c0;</string>
+    <string name="fa_social_feeds">&#xf09e;</string>
+    <string name="fa_fa_plus">&#xf106;</string>
+    <string name="fa_minus">&#xf107;</string>
+    <string name="aboutBJP_dashboard">કર્ણાવતી  મહાનગર સંગઠન ની માહિતી </string>
+    <string name="search_member_dashboard">Search Member</string>
+
+    <string name="community_dashboard">સંગઠન </string>
+    <string name="community_search">સંગઠન : </string>
+
+    <string name="join_community_dashboard">Join Community</string>
+    <string-array name="nav_drawer_main_menu_icon">
+        <item>&#xf015;</item>
+        <item>&#xf073;</item>
+        <item>&#xf03e;</item>
+        <item>&#xf0a1;</item>
+        <item>&#xf008;</item>
+        <item>&#xf08b;</item>
+        <item>&#xf08b;</item>
+        <item>&#xf0e0;</item>
+        <item>&#xf075;</item>
+    </string-array>
+
+    <string-array name="karnavati_mahanagar_sangathan">
+        <item>કર્ણાવતી  મહાનગર સંગઠન ની માહિતી  </item>
+        <item>કર્ણાવતી મહાનગર ના વિવિધ મોરચા અને સેલ ની માહિતી </item>
+        <item>કર્ણાવતી મહાનગર ના વિવિધ પ્રકલ્પો ની માહિતી </item>
+        <item>રાષ્ટ્રીય તથા પ્રદેશ હોદેદારો ની માહિતી</item>
+        <item>બોડ / નિગમના હોદેદારો ની માહિતી</item>
+        <item>કર્ણાવતી મહાનગર સંકલન સમિતિ ની માહિતી </item>
+        <item>કર્ણાવતી મહાનગર બૃહદ સંકલન સમિતિ ની માહિતી  </item>
+        <item>કર્ણાવતી મહાનગર કોર્પોરેશનના સંકલન સમિતિ ની માહિતી  </item>
+        <item> કર્ણાવતી મહાનગર માં આવતા તમામ વોર્ડ સંકલન સમિતિ ની માહિતી </item>
+        <item> કર્ણાવતી મહાનગર માં આવતા તમામ વોર્ડ ની બૃહદ  સંકલન સમિતિ ની માહિતી </item>
+        <item> હાલ માં કોઈ જવાબદારી ન હોય તેવા સિનિયર કાર્યકર્તા ની માહિતી </item>
+        <item> કર્ણાવતી મહાનગર  ના પૂર્વ હોદેદારો ની માહિતી </item>
+        <item> કર્ણાવતી મહાનગર માં રહેતા પૂર્વ રાષ્ટ્રીય તથા પ્રદેશ હોદેદારો ની માહિતી  </item>
+        <item> કર્ણાવતી મહાનગર ના લોકસભા ,વિધાનસભા ,કોર્પોરેશન માં ચૂંટાયેલા તથા હારેલા પૂર્વ હોદેદારો ની માહિતી </item>
+        <item> ચૂંટણી ના પરિણામો </item>
+    </string-array>
+
+    <!--Loksabha -->
+    <string-array name="loksabha_arraylist">
+        <item>લોકસભા સીટ નું નામ</item>
+        <item>લોકસભા સીટ માં આવતી તમામ વિધાનસભા તથા વોર્ડ ના નામ  </item>
+        <item> સાંસદશ્રી ની માહિતી </item>
+        <item>લોકસભા ના પ્રભારી ની માહિતી </item>
+        <item>લોકસભા ના પરિણામ ની વિગતવાર માહિતી </item>
+    </string-array>
+
+    <!--VidhanSabha-->
+    <string-array name="vidhansabha_arraylist">
+        <item>વિધાનસભા  સીટ નું નામ </item>
+        <item>વિધાનસભા માં આવતા તમામ  વોર્ડ ના નામ </item>
+        <item>ધારાસભ્યશ્રી ની માહિતી</item>
+        <item>વિધાનસભાના પ્રભારી ની માહિતી </item>
+        <item>વિધાનસભાના વાલીની માહિતી </item>
+        <item>વિધાનસભા ના બુથલેવલ ઓફિસર(બીએલએ-૧)ની માહિતી </item>
+        <item>વિધાનસભા ચૂંટણી પરિણામ ની વિગતવાર માહિતી </item>
+    </string-array>
+
+    <!--ward-->
+    <string-array name="ward_arraylist">
+        <item>વોર્ડ સંગઠન ની માહિતી  </item>
+        <item>વોર્ડ માં આવતા વિવિધ મોરચા સેલ સંગઠન ની માહિતી </item>
+        <item>વોર્ડ માં આવતા ચૂંટાયેલા પ્રતિનિધી ની માહિતી </item>
+        <item>વોર્ડ માં  રહેતા અન્ય હોદેદારની માહિતી </item>
+        <item>વોર્ડ ના પૂર્વ ચૂંટાયેલા /હારેલા પ્રતિનિધિ ની માહિતી </item>
+        <item>શક્તિ કેન્દ્ર ની માહિતી </item>
+        <item>બૂથ ની માહિતી</item>
+    </string-array>
+    <!--Navigation Menu-->
+    <string name="rastriya_sangathan_info">રાષ્ટ્રીય સંગઠન ની માહિતી  </string>
+    <string name="rajya_sangathan_info">રાજ્ય  સંગઠન ની માહિતી </string>
+    <string name="karnavati_mahanagar_sangthan_info">કર્ણાવતી  મહાનગર સંગઠન ની માહિતી  </string>
+    <string name="karnavati_mahanagar_loksabha_info">કર્ણાવતી  મહાનગર  માં આવતી લોકસભા  ની માહિતી  </string>
+    <string name="karnavati_mahanagar_vidhansabha_info">કર્ણાવતી  મહાનગર  માં આવતી વિધાનસભા   ની માહિતી </string>
+    <string name="karnavati_mahanagar_ward_info">કર્ણાવતી  મહાનગર  માં આવતી વોર્ડઓ    ની માહિતી </string>
+    <string name="telephone_directory">ટેલીફોન ડીરેક્ટરી</string>
+    <string name="reports">રિપોર્ટ્સ</string>
+    <string name="others">અન્ય</string>
+
+    <string name="fa_fa_plus_circle">&#xf106;</string>
+    <string name="fa_minus_circle">&#xf107;</string>
+
+    <!--Blood GROUP SPINNER-->
+    <string-array name="blood_group_spinner_array">
+        <item>-Select-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <!--SOCIAL MEDIA GROUP SPINNER-->
+    <string-array name="social_media_spinner_array">
+        <item>-Select-</item>
+        <item>Istagram</item>
+        <item>Facebook</item>
+        <item>WhatsApp</item>
+        <item>Twitter</item>
+
+    </string-array>
+</resources>

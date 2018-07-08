@@ -1,0 +1,27 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+    <android.support.v4.widget.DrawerLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:layout_height="match_parent"
+    android:id="@+id/main_layout"
+    android:background="#ffffff"
+   >
+    <include layout="@layout/activity_main" />
+    <fragment
+        android:id="@+id/navigation_drawer"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:layout_marginLeft="-64dp"
+        class ="com.example.nepl2.navigationdrawerdemo.NavigationDrawerFragment"
+      />
+
+</android.support.v4.widget.DrawerLayout>
+
+</android.support.design.widget.CoordinatorLayout>

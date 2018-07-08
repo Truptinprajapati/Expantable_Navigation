@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    tools:context="navdrawer.test.com.navigationdrawertest.MainActivity">
+   <item
+       android:id="@+id/action_nextpage"
+       android:title="NextPage"
+       android:icon="@drawable/subitem_icon"
+       android:orderInCategory="100"
+       app:showAsAction="ifRoom" />
+   <item
+       android:id="@+id/home_move"
+       android:title="Home"
+       android:orderInCategory="101"
+       app:showAsAction="never" />
+</menu>
